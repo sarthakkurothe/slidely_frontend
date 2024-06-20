@@ -33,7 +33,7 @@ This project replicates the functionality of Google Forms in a Windows Desktop A
 2. **Clone the Repository:**
    - Clone this repository to your local machine using Git.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sarthakkurothe/slidely_frontend
    ```
 
 3. **Open the Project:**
@@ -59,6 +59,8 @@ Keyboard Shortcuts
 - Ctrl + T: Toggle Stopwatch
 - Ctrl + S: Submit Form
 
+![createsubmission](https://github.com/sarthakkurothe/slidely_frontend/assets/86231596/0721cad3-f9f3-4758-a2f9-4a296881aa43)
+
 ## ViewSubmissionsForm
 
 #### Controls
@@ -68,6 +70,8 @@ Keyboard Shortcuts
 Keyboard Shortcuts
 - Ctrl + N: Next Submission
 - Ctrl + P: Previous Submission
+
+![viewsubmission](https://github.com/sarthakkurothe/slidely_frontend/assets/86231596/ac46eb22-e0b0-4322-8b2c-7cf654587969)
 
 ## Styling Forms
 To style the forms, you can use the properties window in Visual Studio to set properties like BackColor, Font, ForeColor, etc., for each control. You can also use custom styles and themes as needed.
