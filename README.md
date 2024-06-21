@@ -1,4 +1,4 @@
-# Windows Desktop App - Google Forms Replication - Frontend
+# Windows Desktop App - Frontend
 
 ## Overview
 
@@ -32,6 +32,7 @@ This project replicates the functionality of Google Forms in a Windows Desktop A
 
 2. **Clone the Repository:**
    - Clone this repository to your local machine using Git.
+     
    ```bash
    git clone https://github.com/sarthakkurothe/slidely_frontend
    ```
